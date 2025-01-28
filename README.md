@@ -7,7 +7,12 @@
  
  ##Scrum Team
  - Teja Product Owner
- 
+ - Parushuram Scrum Master
+ - Sharmila Developer
+ - Sidhu Tester
+ - Ajith Business Analyst
+   
+ ##Functionalities
  - Teja Recommendations
  - Parushuram Real time analysis
  - Sharmila Supply chain management
